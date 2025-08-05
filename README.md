@@ -83,10 +83,7 @@ All colors are defined as CSS variables in `:root`:
 ```
 
 ## 👨‍💻 Author
+- Email: akashmishra0389@gmail.com.com
 
-**Scoreazy Team**
-- Email: hello@scoreazy.com
 
----
 
-**Made with ❤️ for future leaders | Scoreazy**
