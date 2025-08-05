@@ -2,8 +2,9 @@
 
 A modern, interactive website for a children's confidence building course designed for Grades 3-5. Built with HTML5, CSS3, and JavaScript.
 
-## ✨ live output of the website
+## 🌐 Live Website
 
+**View the live website:** [https://educational-web-seven.vercel.app/](https://educational-web-seven.vercel.app/)
 
 ## ✨ Features
 
